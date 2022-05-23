@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fastauthe.org	TRUE	/	FALSE	1999999999	PHPSESSID	lnjl3iup25922nfov3i9gbuqbb
+widget.coinlib.io	TRUE	/	FALSE	1999999999	IDENTITY	6cfd846e88eaeeed28d8a9ca3a47823fa9e93bcc
+

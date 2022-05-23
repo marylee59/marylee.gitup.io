@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 May 2022 03:37:49 at https://fastauthe.org/customize.php?w +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://fastauthe.org/customize.php?w -%L https://fastauthe.org/customize.php?w -O1 "C:\Users\hp\Downloads\my website\https___fastauthe.org_customize.php_w" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:37:49	Error: 	Could not include URL list: https://fastauthe.org/customize.php?w
+03:38:30	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://defiprotocol.website/defiprotocol/v1/defi/wp-content/themes/leocrypto/assets/css/fonts1849.css?ver=4.7.0 (from https://fastauthe.org/customize.php?w)
+03:40:51	Warning: 	Unexpected socket error during pre-loop
+08:21:06	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://fastauthe.org/customize.php?w)
+08:21:10	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://fastauthe.org/customize.php?w)
+08:21:13	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://defiprotocol.website/defiprotocol/v1/defi/wp-content/themes/leocrypto/assets/css/fonts1849.css?ver=4.7.0 (from https://fastauthe.org/customize.php?w)
+08:21:13	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://resolveprotocol.site/vc/alert.png (from https://fastauthe.org/js_composer.min8b06.css?ver=5.4.7)
+08:21:14	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://widget.coinlib.io/widget?type=horizontal_v2&theme=dark&pref_coin_id=1505&invert_hover=)
+08:22:38	Error: 	"Not Found" (404) at link https://fastauthe.org/wallet/images/Loader_img.png (from https://fastauthe.org/wallet//)
+08:22:44	Warning: 	Retry after error -4 (Incorrect length (131072 Bytes, 181165 expected)) at link https://fastauthe.org/wallet//ownbit-0b6b21e40acf2fa0f85d2c5ce38c4c51.png (from https://fastauthe.org/wallet//)
+08:22:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fastauthe.org/wallet//keplr.png (from https://fastauthe.org/wallet//)
+08:22:44	Warning: 	Retry after error -4 (Receive Error) at link https://fastauthe.org/wallet//bluewallet.jpeg (from https://fastauthe.org/wallet//)
+08:22:45	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//polymesh.jpeg (from https://fastauthe.org/wallet//)
+08:22:47	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//f684d057800c382ceb4ac203b225ce74f57a6afe.png (from https://fastauthe.org/wallet//)
+08:22:48	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//sparkpoint-5c0d3a4ab850a7ee2a3f03e215b68f2c.png (from https://fastauthe.org/wallet//)
+08:22:48	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//kdc.jpg (from https://fastauthe.org/wallet//)
+08:22:49	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//2119b627c696ae4a612a1191a2b575f2240c4d34.png (from https://fastauthe.org/wallet//)
+08:22:49	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//peakdefi-2e1d4f97cc1a737a9aa765b3748ff315.png (from https://fastauthe.org/wallet//)
+08:22:51	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//xdc-9a98bff95dffc41869b8e77912a6cc54.png (from https://fastauthe.org/wallet//)
+08:22:51	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//unstoppable-0d3474dcd7572ac2080b0f4ce632dfac.png (from https://fastauthe.org/wallet//)
+08:22:52	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//auro.jpg (from https://fastauthe.org/wallet//)
+08:22:55	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//75414616f01e6ed207916a9f513d9d6c4deaaa1f.jpg (from https://fastauthe.org/wallet//)
+08:22:55	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//gridplus-8cedce167d37ddaa02f2afdf55841d8c.png (from https://fastauthe.org/wallet//)
+08:22:55	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//df9af0eacee4362326abbbd91a3248e7a34dc193.png (from https://fastauthe.org/wallet//)
+08:22:56	Warning: 	Retry after error -4 (Connect Error) at link https://fastauthe.org/wallet//c727fbb2f1fd7f6007903184631243db95e8d1c9.jpg (from https://fastauthe.org/wallet//)
+08:22:57	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://defiprotocol.website/defiprotocol/v1/defi/wp-content/themes/leocrypto/assets/css/fonts1849.css?ver=4.7.0 (from https://fastauthe.org/customize.php?w)
+08:22:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://resolveprotocol.site/vc/alert.png (from https://fastauthe.org/js_composer.min8b06.css?ver=5.4.7)
+08:22:57	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://widget.coinlib.io/static/webfonts/fa-brands-400.eot (from https://widget.coinlib.io/static/css/fontawesome-all.min.css?25799)
+08:24:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://resolveprotocol.site/vc/alert.png (from https://fastauthe.org/js_composer.min8b06.css?ver=5.4.7)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 days, 4 hours 46 minutes 27 seconds : 306 links scanned, 275 files written (13608851 bytes overall) [9027311 bytes received at 87 bytes/sec], 8172021 bytes transferred using HTTP compression in 110 files, ratio 41%, 3.8 requests per connection
+(7 errors, 22 warnings, 0 messages)
